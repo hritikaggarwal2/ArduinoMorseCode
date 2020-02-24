@@ -15,6 +15,7 @@ When the push button is pressed, the LED lights up as an indicator. The Morse Co
 - Arduino Uno = 1
 - Breadboard (half-sized) = 1
 - Jumper Cables
+- Resistor (10 kilohm) = 2
 
 ### Connections
 
