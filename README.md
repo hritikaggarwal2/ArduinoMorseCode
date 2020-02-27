@@ -19,4 +19,4 @@ When the push button is pressed, the LED lights up as an indicator. The Morse Co
 
 ### Connections
 
-Look at the Schematic.png and Connection.png and design your system accordingly.
+Look at the Connection.png and design your system accordingly.
